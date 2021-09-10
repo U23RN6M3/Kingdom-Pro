@@ -100,7 +100,8 @@ Gifts a user mentioned quantity of item.
 ```-use (item) (amount)```
 Uses (amount) of mentioned item.
 
-
+```-vault (gold) (add/take)```
+Secures gold from possible dangers.
 
 
 
