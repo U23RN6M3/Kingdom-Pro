@@ -4,7 +4,7 @@ Kingdom Pro is an advanced economy bot with advanced economy features such as pe
 
 [Invite the Bot](https://discordapp.com/oauth2/authorize?client_id=873076663448109176&scope=bot&permissions=2146958847)
 or
-[Vote us on top.gg](https://top.gg/bot/873076663448109176/vote)
+[Vote us on top.gg](https://top.gg/bot/873076663448109176/vote) for ingame rewards
 
 ## Commands List
 
