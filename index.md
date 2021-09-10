@@ -1,37 +1,110 @@
-## Welcome to GitHub Pages
+# Kingdom Pro Website
 
-You can use the [editor on GitHub](https://github.com/U23RN6M3/U23.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Kingdom Pro is an advanced economy bot with advanced economy features such as people revolution and alliances. Build your kingdom to the top and send your troops to battle down the rest of the kingdoms down.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Commands List
 
-### Markdown
+-guide
+Players guide on how to earn gold.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-vote
+Vote for Kingdom Pro on Top.gg for rewards.
 
-```markdown
-Syntax highlighted code block
+-software
+Credits and Detailed Bot analytics.
 
-# Header 1
-## Header 2
-### Header 3
+-daily
+Claim Daily rewards.
 
-- Bulleted
-- List
+-weekly
+Claim weekly rewards. 
 
-1. Numbered
-2. List
+-newland
+Get started on your kingdom.
 
-**Bold** and _Italic_ and `Code` text
+-land (user)
+User's kingdom information.
 
-[Link](url) and ![Image](src)
-```
+-board (1/2/3)
+Leaderboard.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-rankup
+Get ranked up and earn harvest multipliers.
 
-### Jekyll Themes
+-gamble (gold)
+Do a king's gamble and either get 2x the gold or get it taken away.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/U23RN6M3/U23.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-vault (gold) (add/take)
+Adds gold to your vault to make your gold secure. 
+
+-job menu
+View job stats and menu
+-jobs (job name) (people)
+Assign a number of people to the job name.
+
+-recruit (gold)
+Recruit people into your kingdom. Adjust the amount of people you would recruit with amount of Gold.
+
+-trade (food/gold) (quantity) (user)
+Trades contents to a user.
+
+-harvest
+Harvest food.
+
+-food (sell/donate) (quantity)
+Sells/Donates your food for gold/morale.
+
+-beg
+Beg for 2 food and 2 gold.
+
+-military
+Opens military menu.
+
+-town (army)
+Raid a nearby town for gold and troops. -boss Attack server Giant for mass amounts of gold.
+
+-reviveboss
+Revive the fallen Server Boss. If defeated.
+
+-barracks (army) (add/take)
+Place some troops into the barracks so they won't participate in battles and etc. You can add any amount of troops in the barracks, but when beyond 2000 troops inside the barracks you cant.
+
+-attack (army) (user)
+Attacks the mentioned player. 
+
+-build
+Opens construction menu.
+
+-expandland
+Expands Land Luck.
+
+-factions
+Factions Menu and Ability Chart.
+
+-shop
+Opens shop.
+
+-inv
+Opens inventory.
+
+-buy (item)
+Purchases 1 of mentioned item.
+
+-gift (item) (quantity) (user)
+Gifts a user mentioned quantity of item.
+
+-use (item) (amount)
+Uses (amount) of mentioned item.
+
+
+
+
+
+
+### Updates
+
+Revised new website for Kingdom Pro on GitHub.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with our bot? Join our support [Discord Server](https://discord.gg/Vt6yeUKMw8) and message us at #support.
