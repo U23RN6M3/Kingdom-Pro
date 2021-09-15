@@ -6,6 +6,9 @@ Kingdom Pro is an advanced economy bot with advanced economy features such as pe
 or
 [Vote us on top.gg](https://top.gg/bot/873076663448109176/vote) for ingame rewards
 
+***Top.gg status:***
+[![Discord Bots](https://top.gg/api/widget/873076663448109176.svg)](https://top.gg/bot/873076663448109176)
+
 ## Commands List
 
 ```-guide```
