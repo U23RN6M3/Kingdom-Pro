@@ -84,8 +84,8 @@ Opens construction menu.
 ```-expandland```
 Expands Land Luck.
 
-```-factions```
-Factions Menu and Ability Chart.
+```-ability```
+Ability Menu.
 
 ```-shop```
 Opens shop.
@@ -105,12 +105,20 @@ Uses (amount) of mentioned item.
 ```-vault (gold) (add/take)```
 Secures gold from possible dangers.
 
+```-ally join (user)```
+Joins the mentioned user's alliance (they must be an alliance leader)
+
+```-ally create (alliance name)```
+Creates an allaince. Automatically sets you as the alliance leader.
+
+```-accept (user)```
+Accepts user into your alliance. You must be an allaince leader to execute this command.
 
 
 
 ### Updates
 
-Revised new website for Kingdom Pro on GitHub.
+Alliance system implemented.
 
 ### Support or Contact
 
